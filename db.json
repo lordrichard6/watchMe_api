@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "die",
+      "id": 1
+    },
+    {
+      "title": "Dead by daylight",
+      "description": "Killer games.",
+      "id": 2
+    },
+    {
+      "title": "New Steam ref",
+      "description": "Back on business",
+      "id": 4
+    }
+  ]
+}
